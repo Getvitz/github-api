@@ -10,7 +10,7 @@ function App() {
     <Navigation />
     <Routes>
       <Route path="/" element={<Homepage/>}/>
-      <Route path="/favourites" element={<Favouritespage/>}/>
+      <Route path="/favourites" element={<Favouritespage />}/>
     </Routes>
     </>
   );
